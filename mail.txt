@@ -1,6 +1,3 @@
-1
-
-
 Список IP адресов (с наибольшим кол-вом запросов):
     482 66.249.73.135
     364 46.105.14.53
@@ -1905,7 +1902,7 @@
       3 "http://zolotoy-lis.ru/"
       3 "http://znakomstvaonlain.ru/"
       3 "http://xn--90adhhccf5aeewt7j.xn--p1ai/"
-      3 "http://���������-����.��/"
+      3 "http://���������-����.��/"
       3 "http://www.semicomplete.com/projects/pmbackup/"
       3 "http://www.semicomplete.com/projects/liboverride/"
       3 "http://www.semicomplete.com/files/xdotool/docs/html/files.html"
